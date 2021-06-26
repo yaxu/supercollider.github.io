@@ -18,7 +18,7 @@
                     </li>
                 </ul>
                 <div class="alert alert-warning" role="alert">
-                    CAUTION: macOS system volume doesn’t effectively limit audio applications’ maximum volume. Extra care has to be put in working on this platform, especially with headphones, because programs can produce unexpectedly loud sounds regardless of system volume settings, potentially causing ear damage. As a safety measure, we highly recommend to install the <a href="" title="SafetyNet quark">SafetyNet</a> quark. See <a href="https://doc.sccode.org/Guides/UsingQuarks.html" title="Using Quarks">Using Quarks</a> for Quarks installation instruction.
+                    CAUTION: macOS system volume doesn’t effectively limit audio applications’ maximum volume. Extra care has to be put in working on this platform, especially with headphones, because programs can produce unexpectedly loud sounds regardless of system volume settings, potentially causing ear damage. As a safety measure, we highly recommend to install the <a href="https://github.com/adcxyz/SafetyNet" title="SafetyNet quark">SafetyNet</a> quark. See <a href="https://doc.sccode.org/Guides/UsingQuarks.html" title="Using Quarks">Using Quarks</a> for Quarks installation instruction.
                 </div>
                 <h4>Previous Releases</h4>
                 <ul class="nodot">
